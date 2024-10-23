@@ -5,11 +5,14 @@ Sou um desenvolvedor focado em **Java**, **Spring Boot**, **Docker**, e mais! Tr
 ## 🔥 GitHub Stats
 <div>
   <a href="https://github.com/GuilhermeSalles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSalles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSalles&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSalles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSalles&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
+
 ## 🛠️ Tecnologias & Ferramentas
+Desenvolvo soluções utilizando as seguintes tecnologias e frameworks:
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>   
@@ -31,5 +34,7 @@ Sou um desenvolvedor focado em **Java**, **Spring Boot**, **Docker**, e mais! Tr
   <a href="https://www.linkedin.com/in/guilhermebaltazar-v/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
 ## 🐍 Snake Animation - Contribuições
 ![Snake animation](https://github.com/GuilhermeSalles/GuilhermeSalles/blob/output/github-contribution-grid-snake.svg)
+
