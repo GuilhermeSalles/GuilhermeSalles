@@ -16,44 +16,35 @@ Sou um desenvolvedor focado em **Java**, **Spring Boot**, **Docker**, e mais! Tr
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-Desenvolvo soluções utilizando as seguintes tecnologias e frameworks:
+## 🚀 Tecnologias & Ferramentas
+**Linguagens de Programação**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Backend
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Spring Boot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" alt="Thymeleaf" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg"/>
-</div>
+**Frameworks e Ferramentas**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Frontend
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-</div>
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Banco de Dados
-<div style="display: inline_block"><br>
-  <img align="center" alt="Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-  <img align="center" alt="Azure SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-</div>
-
-### DevOps
-<div style="display: inline_block"><br>
-  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-</div>
+**Banco de Dados**  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-1572B6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
 ## 🌟 Projetos Destacados
-- [**Tomas BigPizza**](https://github.com/GuilhermeSalles/Tomas-BigPizza): Sistema de pedidos para pizzarias.
-- [**Entrevista**](https://github.com/GuilhermeSalles/Entrevista): Sistema da entrevista sobre tranferencia bancária com thymeleaf e spring.
-- [**Agenda de Lives**](https://github.com/GuilhermeSalles/Agenda-de-Lives): Plataforma para criar e gerenciar transmissões ao vivo.
-- [**DS List Front**](https://github.com/GuilhermeSalles/DS-List-Front): Frontend para gerenciar listas de jogos.
-- [**DS List**](https://github.com/GuilhermeSalles/DSList): Backend completo para gerenciamento de listas de jogos.
-- [**Projeto Site de Vendas**](https://github.com/GuilhermeSalles/Projeto-site-de-vendas): Plataforma de e-commerce para vendas online.
+- [Tomas BigPizza](https://github.com/GuilhermeSalles/Tomas-BigPizza) 🍕 Sistema de pedidos para pizzarias.  
+- [Entrevista](https://github.com/GuilhermeSalles/Entrevista) 💼 Sistema para agendamento e gerenciamento de entrevistas.  
+- [Agenda de Lives](https://github.com/GuilhermeSalles/Agenda-de-Lives) 📅 Plataforma para criar e gerenciar transmissões ao vivo.  
+- [DS List Front](https://github.com/GuilhermeSalles/DS-List-Front) 🎮 Frontend para gerenciar listas de jogos.  
+- [DS List](https://github.com/GuilhermeSalles/DSList) 🗂 Backend completo para gerenciamento de listas de jogos.  
+- [Projeto Site de Vendas](https://github.com/GuilhermeSalles/Projeto-site-de-vendas) 🛒 Plataforma de e-commerce para vendas online.
 
 ---
 
